@@ -1,6 +1,6 @@
 # Hi there, I'm Peeradon Teabrit (Bank) 👋
 
-I love design and code so I try to do both
+I love user-centric design and code so I try to do both 🔥.
 
 [![My UX/UI design profolio](https://github.com/Peeradonte48/Peeradonte48/assets/171964511/a313e672-1c3b-4992-9440-5e6253393158)](https://peeradonte.com)
 

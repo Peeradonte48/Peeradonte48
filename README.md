@@ -2,7 +2,7 @@
 
 I love design and code so I try to do both
 
-[My UX/UI design profolio](peeradonte.com)
+[My UX/UI design profolio](https://peeradonte.com)
 
 
 <!---
